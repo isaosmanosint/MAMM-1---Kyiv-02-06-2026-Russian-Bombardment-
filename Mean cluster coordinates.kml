@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cluster_centroid" id="cluster_centroid">
+	<SimpleField name="MEAN_X" type="float"></SimpleField>
+	<SimpleField name="MEAN_Y" type="float"></SimpleField>
+	<SimpleField name="layer" type="string"></SimpleField>
+	<SimpleField name="path" type="string"></SimpleField>
+</Schema>
+<Folder><name>cluster_centroid</name>
+  <Placemark id="cluster_centroid.1">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.331824999999998</SimpleData>
+		<SimpleData name="MEAN_Y">50.382550000000002</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={ae5c2890-0f73-498c-a4e8-5ffa7af9f646}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.331825,50.38255</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.2">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.506880000000002</SimpleData>
+		<SimpleData name="MEAN_Y">50.486781999999998</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={ca47a86c-f3a0-4c88-bc50-0486cd6a2add}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.50688,50.486782</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.3">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.486300000000000</SimpleData>
+		<SimpleData name="MEAN_Y">50.486353333333341</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={8cf37c7b-0fda-4e6d-acf4-0141232c0e47}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.4863,50.4863533333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.4">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.678646666666669</SimpleData>
+		<SimpleData name="MEAN_Y">50.426546666666667</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={49169f90-f2ab-4c34-9e38-724071880d53}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.6786466666667,50.4265466666667</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.5">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.477440000000001</SimpleData>
+		<SimpleData name="MEAN_Y">50.394743333333331</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={d04b1790-84d0-4853-9f47-141e42b19558}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.47744,50.3947433333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.6">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.462506666666670</SimpleData>
+		<SimpleData name="MEAN_Y">50.463943333333333</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={71477071-55b2-42a7-9ebb-897316c34319}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.4625066666667,50.4639433333333</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.7">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.428773999999997</SimpleData>
+		<SimpleData name="MEAN_Y">50.507356000000001</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={a9aa14e7-ee20-4d93-9581-a73e90608590}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.428774,50.507356</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.8">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.518722500000003</SimpleData>
+		<SimpleData name="MEAN_Y">50.474577500000002</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={8255eb3a-1956-41f7-a78e-96a69dbac9c2}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.5187225,50.4745775</coordinates></Point>
+  </Placemark>
+  <Placemark id="cluster_centroid.9">
+	<ExtendedData><SchemaData schemaUrl="#cluster_centroid">
+		<SimpleData name="MEAN_X">30.491859999999999</SimpleData>
+		<SimpleData name="MEAN_Y">50.399290000000001</SimpleData>
+		<SimpleData name="layer">Mean coordinates</SimpleData>
+		<SimpleData name="path">Point?crs=EPSG:4326&amp;field=MEAN_X:double(24,15)&amp;field=MEAN_Y:double(24,15)&amp;uid={0732b679-ec97-49b0-a06a-5a33f233d13f}</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.49186,50.39929</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
